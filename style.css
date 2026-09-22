@@ -1,0 +1,80 @@
+body {
+    background-image: url("BG_GB.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: Arial;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: darkorange;
+    background: linear-gradient(to left, lemonchiffon, papayawhip);
+    width: 50%;
+    margin: 10px auto;
+    padding: 5px;
+    text-shadow: 0px 0px 5px orchid, 0px -5px 5px thistle;
+}
+
+h2 {
+    color: darkorange;
+    background: linear-gradient(to left, lemonchiffon, papayawhip);
+    width: 50%;
+    margin: 10px auto;
+    padding: 5px;
+    text-shadow: 0px 0px 5px orchid, 0px -5px 5px thistle;
+}
+
+h3 {
+    color: darkorange;
+    background: linear-gradient(to left, lemonchiffon, papayawhip);
+    width: 50%;
+    margin: 10px auto;
+    padding: 5px;
+    text-shadow: 0px 0px 5px orchid, 0px -5px 5px thistle;
+}
+
+a {
+    color: darkorange;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+}
+
+th {
+    background-color: darkorange;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+ul, ol {
+    text-align: left;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+button {
+    background-color: darkorange;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+input, select, textarea {
+    padding: 5px;
+}
+
+hr {
+    border: 1px solid darkorange;
+}
